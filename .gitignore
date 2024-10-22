@@ -57,6 +57,8 @@ Module.symvers
 /System.map
 /Module.markers
 
+/work
+
 #
 # Debian directory (make deb-pkg)
 #
